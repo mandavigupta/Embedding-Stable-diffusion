@@ -88,6 +88,7 @@ queen
 A queen is eating the food
 ```
 🖼️ Generated Image:
+![Output Image](https://raw.githubusercontent.com/mandavigupta/Embedding-Stable-diffusion/main/output_image.png)
 
 
 
