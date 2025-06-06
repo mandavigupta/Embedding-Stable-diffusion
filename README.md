@@ -70,7 +70,7 @@ Enter word C: woman
 💡 Prompt Example
 The prompt is dynamically generated like so:
 ```bash
-prompt = f"A {predicted_word} is eating the food"
+prompt = f"A {predicted_word} is sitting on the chair"
 ```
 🖼️ Sample Output
 ✅ Input:
