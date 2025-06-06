@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+Pipfile.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch / Tensor outputs
+*.pth
+*.pt
+*.h5
+
+# Image outputs
+output_image.png
+
+# VS Code settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
