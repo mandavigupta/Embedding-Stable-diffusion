@@ -8,7 +8,7 @@ Turn a word analogy like `king - man + woman` into an AI-generated image using w
 This project combines **word vector arithmetic** and **text-to-image generation** to visualize semantic analogies.
 
 > Example:  
-> `king - man + woman ≈ queen` → _"A queen is eating the food"_ → 🎨 *Image generated!*
+> `king - man + woman ≈ queen` → _"A queen is sitting on the chair"_ → 🎨 *Image generated!*
 
 
 ## 🛠️ 1. Clone the Repository
