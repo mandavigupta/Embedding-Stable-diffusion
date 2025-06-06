@@ -1,0 +1,7 @@
+torch
+genism
+diffusers
+transformers
+accelerate
+safetensors
+Pillow
